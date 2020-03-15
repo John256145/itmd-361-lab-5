@@ -1,5 +1,12 @@
 #content {
+
+}
+
+body {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  background-image: url("images/space.jpg");
+  color: white;
 }
