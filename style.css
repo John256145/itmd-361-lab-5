@@ -10,3 +10,16 @@ body {
   background-image: url("images/space.jpg");
   color: white;
 }
+
+table, td, th {
+  border: 1px solid white;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  height: 50px;
+}
